@@ -5,5 +5,5 @@ This is a project I completed as a student at [hackreactor](http://hackreactor.c
 
 Gain understanding and familiarity with ES6 class instantiation patterns, inheritance, and subclassing by creating different types of bees, each its own class.
 
-![bees-gif] (https://media.giphy.com/media/QBYeMohXoVUJBtlfFD/giphy.gif)
+![bees-gif](https://media.giphy.com/media/QBYeMohXoVUJBtlfFD/giphy.gif)
 
